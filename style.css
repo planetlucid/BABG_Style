@@ -6811,7 +6811,7 @@ input, textarea {
 }
 .no-fittext #site-title {
   font-size: 80px;
-  
+  display:none;
 }
 #site-title a {
   color: #fff;
